@@ -1,1 +1,1 @@
-These files are intended for the purpose of revising concepts. They contain only concise notes, providing a focused resource for quickly grasping key ideas.
+These files are intended for the purpose of revising concepts. They contain only concise notes, providing a focused resource for quickly grasping key ideas. Additionally, they include projects(for beginners) on natural language processing (NLP), predominantly utilizing datasets sourced from Kaggle.com
